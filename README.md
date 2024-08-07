@@ -17,5 +17,4 @@ Explore my scripts designed to automate Nmap scans, providing a simplified appro
 - <b>gedit</b>
 
 
-<h2>Program walk-through:</h2>
-Locate the Program Walkthrough in the "master" Branch of this repository.
+
